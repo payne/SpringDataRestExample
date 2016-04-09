@@ -1,5 +1,5 @@
 1. spring-data-rest-angular-sample forked from https://github.com/priyadb/SpringDataRestExample see article http://goo.gl/ehFu9Y
-   a. WIP conversion from mysql to h2.  Currently things are broken.  `java -jar` by hand to see the error.  `gradle runBoot` hides it
+   a. WIP conversion from mysql to h2.  Currently things are broken.  `java -jar` by hand to see the error.  `gradle bootRun` hides it
 1. gs-accessing-data-complete forked from https://spring.io/guides/gs/accessing-data-rest/
 
 
