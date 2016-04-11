@@ -10,5 +10,10 @@ public class HomeController {
 	public String home() {
 		return "index";
 	}
+	
+	@RequestMapping("/h2")
+	public String h2() {
+		return "h2";
+	}
 
 }
